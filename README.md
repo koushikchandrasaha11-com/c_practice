@@ -7,6 +7,7 @@ A collection of C++ programs for coding interview preparation.
 - Second Largest Distinct Element — Arrays, vectors, and loops.
 - Valid Parentheses — Strings, stacks, and bracket matching.
 - Two Sum — Arrays, hash maps, and efficient searching.
+- Binary Search — Sorted arrays, divide and conquer, and logarithmic searching.
 
 ## Topics to Practise
 
